@@ -1,4 +1,4 @@
-# Typical-CNN-Architecture-on-MNIST-and-CIFAR10
+## Typical-CNN-Architecture-on-MNIST-and-CIFAR10
 Implement Typical CNN Architecture on MNIST and CIFAR10 by pytorch
 ---
 ## requirement：
